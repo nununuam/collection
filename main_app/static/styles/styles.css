@@ -1,17 +1,23 @@
+body{
+    background-color: rgb(224, 177, 203);
+}
 h1 {
-    color: green;
+    color: rgb(35, 25, 66);
+}
+.basebar a{
+    color: rgb(35, 25, 66);
 }
 
 .btn-primary{
-    background-color: rgb(155, 167, 47) !important;
-    color:rgb(238, 238, 238);
-    border-color: rgb(96, 174, 230);
+    background-color: rgb(190, 149, 196) !important;
+    color:rgb(35, 25, 66);
+    border-color: rgb(94, 84, 142);
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: rgb(48, 57, 146) !important;
-    color:rgb(255, 255, 255);
-    border-color: rgb(253, 45, 240);
+    background-color: rgb(35, 25, 66) !important;
+    color:rgb(224, 177, 203);
+    border-color: rgb(159, 134, 192);
 }
 
 div .homebuttons{
