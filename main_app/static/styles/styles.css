@@ -13,3 +13,10 @@ h1 {
     color:rgb(255, 255, 255);
     border-color: rgb(253, 45, 240);
 }
+
+div .homebuttons{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 80%;
+    text-align: center;
+}
