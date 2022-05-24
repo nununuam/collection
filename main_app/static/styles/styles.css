@@ -32,20 +32,25 @@ text-align: center;
     margin-left: 20%;
     margin-right: 20%;
 }
-/* Button 1*/
-.button1 {
+/* Button 1, 2*/
+.button1, .button2-1, .button3-1, .button4-1{
     text-align: center;
     color: black;
     text-decoration:none;
     margin-left: 20%;
     margin-right: 20%;
 }
-.button1 img{
+.button1 img, .button2-1 img, .button3-1 iframe, .button4-1 img{
     width: 90%;
     border-radius: 2%;
 }
+.button1atag2, .button2atag2, .button3atag2, .button4atag2{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
 
-/* Button 1*/
+/* Button 2*/
 
 /* Button 1*/
 
